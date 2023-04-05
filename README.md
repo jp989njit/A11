@@ -1,4 +1,3 @@
-# A11
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,6 +14,49 @@
 		<h2>San Joaquin Valley Town Hall</h2>
 		<h3>Celebrating our <span class="shadow">75<sup>th</sup></span> Year</h3>
 	</header>
+	<style>
+		body {
+		  margin: 0;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		.topnav {
+		  overflow: hidden;
+		  background-color: #333;
+		}
+		
+		.topnav a {
+		  float: left;
+		  color: #c40000;
+		  text-align: center;
+		  padding: 14px 16px;
+		  text-decoration: none;
+		  font-size: 17px;
+		}
+		
+		.topnav a:hover {
+		  background-color: #ddd;
+		  color: black;
+		}
+		
+		.topnav a.active {
+		  background-color: #98351c;
+		  color: white;
+		}
+		</style>
+		</head>
+		<body>
+		
+		<div class="topnav">
+		  <a class="active" href="#home">Home</a>
+		  <a href="#news">News</a>
+		  <a href="#contact">Contact</a>
+		  <a href="#about">About</a>
+		</div>
+		
+
+		
+
 	<main>
 		<section>
 			<h2>Our Mission</h2>
@@ -59,7 +101,8 @@
 		</aside>
 	</main>
 	<footer>
-		<p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+		<p>&copy; Jenish Patel, April 4, 2023, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
 	</footer>
+
 </body>
 </html>
